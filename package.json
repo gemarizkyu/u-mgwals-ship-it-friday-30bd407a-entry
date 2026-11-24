@@ -1,0 +1,1 @@
+{"description":"Writes the funniest one-line git commit message an AI coding agent would write right before breaking production on a Friday.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"ship-it-friday","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
